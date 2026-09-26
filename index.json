@@ -6,7 +6,7 @@
     "version": "1.4.2",
     "sha256": "5994ea533a308b7b52179086d9b790bece881d1d46fd366c2812484ed598c50e",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/copy_manga.js",
-    "description": "0.3.17 开发版公开样本阅读已验证；不代表全部作品或账号功能已验收。"
+    "description": "0.3.19 开发版公开阅读与账号登录、搜索、章节首图及退出已验证；仍可能受站点限流，不代表全部账号功能已验收。"
   },
   {
     "name": "拷贝漫画(多账号)",
@@ -15,7 +15,7 @@
     "version": "1.4.1",
     "sha256": "c71ffde879bbbf2de967a392933df16767530e9debeb84bf8ab2af1dad3408f2",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/copy_manga_multi_accounts.js",
-    "description": "多账号变体尚未单独验收；账号功能待验证。"
+    "description": "0.3.19 开发版默认账号槽位的登录、搜索、目录、首图与退出通过；没有验证多个账号槽位并行使用。"
   },
   {
     "name": "Komiic",
@@ -42,7 +42,7 @@
     "version": "1.0.6",
     "sha256": "a404719b7f3f338911dd0a8a77a73fc50c6aa22048cf6458413f7b5a5a9d152b",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/picacg.js",
-    "description": "需要登录账号；未提供测试账号。"
+    "description": "需要登录账号；0.3.19 开发版登录态分类翻页、封面、搜索、目录、章节首尾图片、收藏列表读取及会话恢复通过。不代表全部作品及账号操作已验收。"
   },
   {
     "name": "nhentai",
