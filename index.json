@@ -58,7 +58,7 @@
     "fileName": "wnacg.js",
     "key": "wnacg",
     "version": "1.0.5",
-    "description": "已恢复单本入口，但 loadEp 返回空图片列表；页面解析仍待修复。",
+    "description": "HTTP 200 页面只提供收藏占位图，没有实际章节图片；图片列表仍待修复。",
     "sha256": "5c812b8e9a5ee0fe3dd10312135bef8ec7ca5db20ee8ceae1b94d2ee5992005e",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/wnacg.js"
   },
@@ -141,7 +141,7 @@
     "version": "1.0.2",
     "sha256": "96b89df7bcdaa2f3c1a02d15ce19575c5fdffceb768083dff552c8afc5969f1b",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/zaimanhua.js",
-    "description": "接口 data 字段为空，原脚本直接 map 报错；接口待适配。"
+    "description": "0.3.18 开发版修复分类专属筛选后，公开样本封面、目录、9 页图片列表和首张图片解码通过；不代表全部作品或账号功能已验收。"
   },
   {
     "name": "漫画柜",
@@ -195,7 +195,7 @@
     "version": "1.0.0",
     "sha256": "17d910952f7de6d47b10cca2302193e84b7ae1873219f91dfa927d0cc4e8897e",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/mh1234.js",
-    "description": "已保留空参数并补全选项；页面缺少 total-page 元素，解析待适配。"
+    "description": "默认域名返回停放页面，缺少 total-page；需要核对有效站点地址，暂未通过阅读验收。"
   },
   {
     "name": "CCC追漫台",
