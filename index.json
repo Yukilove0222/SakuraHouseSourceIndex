@@ -58,7 +58,7 @@
     "fileName": "wnacg.js",
     "key": "wnacg",
     "version": "1.0.5",
-    "description": "HTTP 200 页面只提供收藏占位图，没有实际章节图片；图片列表仍待修复。",
+    "description": "0.3.21 起适配当前阅读接口；有效 HTTPS 域名上的系列/单本样本、封面及首尾图片已验证。默认域名不可访问时请在源设置选择站点公布的地址；全部作品、离线下载及账号功能尚未全验收。",
     "sha256": "5c812b8e9a5ee0fe3dd10312135bef8ec7ca5db20ee8ceae1b94d2ee5992005e",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/wnacg.js"
   },
