@@ -1,0 +1,74 @@
+[
+  {
+    "name": "拷贝漫画",
+    "fileName": "copy_manga.js",
+    "key": "copy_manga",
+    "version": "1.4.2",
+    "sha256": "5994ea533a308b7b52179086d9b790bece881d1d46fd366c2812484ed598c50e",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/copy_manga.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "热辣漫画",
+    "fileName": "hot_manga.js",
+    "key": "hot_manga",
+    "version": "1.0.0",
+    "sha256": "d5f440d1a2e5d41e53189eb8d3e7ba19864c43b1d6592e20eb65ef326a410fd4",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/hot_manga.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "GoDa漫画",
+    "fileName": "goda.js",
+    "key": "goda",
+    "version": "1.2.1",
+    "sha256": "dc94b8d5074e342633b2f1c4ca74e9d7cfa3a6952890ab9a56f5c675a1a16fc5",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/goda.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "H-Comic",
+    "fileName": "hcomic.js",
+    "key": "hcomic",
+    "version": "1.0.0",
+    "sha256": "0490859b636ca796a8a16b044724fed556bcfcfcdefae02e6b1e81fd6d8393d2",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/hcomic.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "漫小肆",
+    "fileName": "mxs.js",
+    "key": "mxs",
+    "version": "1.0.0",
+    "sha256": "da2c222eda825b77eb3b67ac09ec33b70bc2512cd5fc867fbe9b958df55037f8",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/mxs.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "MYCOMIC",
+    "fileName": "mycomic.js",
+    "key": "mycomic",
+    "version": "1.1.0",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。",
+    "sha256": "85432d15a15e71a03192a27e73ee61b09cd68878561c9f5543ecb5dcb2933c67",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/mycomic.js"
+  },
+  {
+    "name": "nhentai",
+    "fileName": "nhentai.js",
+    "key": "nhentai",
+    "version": "1.1.0",
+    "sha256": "0f68757f89d493926cbf4c039c256d34365d0639aaa6996acbcde7c162257982",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/nhentai.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "再漫画",
+    "fileName": "zaimanhua.js",
+    "key": "zaimanhua",
+    "version": "1.0.2",
+    "sha256": "96b89df7bcdaa2f3c1a02d15ce19575c5fdffceb768083dff552c8afc5969f1b",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/zaimanhua.js",
+    "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  }
+]
