@@ -70,5 +70,23 @@
     "sha256": "96b89df7bcdaa2f3c1a02d15ce19575c5fdffceb768083dff552c8afc5969f1b",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/zaimanhua.js",
     "description": "2026-10-10 单本样本的列表、目录、封面及首张阅读图解码通过；不代表全部作品、账号或下载已验收。"
+  },
+  {
+    "name": "Picacg",
+    "fileName": "picacg.js",
+    "key": "picacg",
+    "version": "1.0.6",
+    "sha256": "a404719b7f3f338911dd0a8a77a73fc50c6aa22048cf6458413f7b5a5a9d152b",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/e28e134074308c0006408272639a53b9af9ce9da/picacg.js",
+    "description": "2026-10-12 复用本机有效账号，列表、目录与首批阅读图片通过，密码POST0；需樱之屋0.4.26的渐进分页支持。此前另一封面跳转后422，保留局部图片异常限制，不保证所有封面或作品。"
+  },
+  {
+    "name": "禁漫天堂",
+    "fileName": "jm.js",
+    "key": "jm",
+    "version": "1.4.0",
+    "description": "2026-10-12 单本列表、132项目录、封面及首张阅读图（含还原）通过，7次受管理发送；不代表全部作品、账号或下载验收。",
+    "sha256": "a91bc8cc8b1a69eda20cdf2a04deea3fe0522baf2de84caa0c851211cb5f78ad",
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/e28e134074308c0006408272639a53b9af9ce9da/jm.js"
   }
 ]

@@ -41,8 +41,8 @@
     "key": "picacg",
     "version": "1.0.6",
     "sha256": "a404719b7f3f338911dd0a8a77a73fc50c6aa22048cf6458413f7b5a5a9d152b",
-    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/picacg.js",
-    "description": "2026-10-10 未登录请求 HTTP 401 即停，需要账号后另行验收；本轮未提交密码。"
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/e28e134074308c0006408272639a53b9af9ce9da/picacg.js",
+    "description": "2026-10-12 复用本机有效账号，列表、目录与首批阅读图片通过，密码POST0；需樱之屋0.4.26的渐进分页支持。此前另一封面跳转后422，保留局部图片异常限制，不保证所有封面或作品。"
   },
   {
     "name": "nhentai",
@@ -58,7 +58,7 @@
     "fileName": "wnacg.js",
     "key": "wnacg",
     "version": "1.0.6",
-    "description": "2026-10-10 更新上游1.0.6，固定提交及SHA-256；尚未运行或在线验收，待验证，不自动开放发现页。",
+    "description": "2026-10-12 1.0.6首屏解析66项；规范重定向与临时主机绑定冲突，详情/首图未验收。保持待验证，不自动准入。",
     "sha256": "545a6d818d012c1e5799d6aaf7ecd09798969acb840166ee7c56de6d02201df0",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/e28e134074308c0006408272639a53b9af9ce9da/wnacg.js"
   },
@@ -76,9 +76,9 @@
     "fileName": "jm.js",
     "key": "jm",
     "version": "1.4.0",
-    "description": "2026-10-10 浏览样本 HTTP 404 即停，阅读未通过；未轮换域名，不断言整个站点永久失效。",
+    "description": "2026-10-12 单本列表、132项目录、封面及首张阅读图（含还原）通过，7次受管理发送；不代表全部作品、账号或下载验收。",
     "sha256": "a91bc8cc8b1a69eda20cdf2a04deea3fe0522baf2de84caa0c851211cb5f78ad",
-    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/jm.js"
+    "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/e28e134074308c0006408272639a53b9af9ce9da/jm.js"
   },
   {
     "name": "MangaDex",
@@ -258,7 +258,7 @@
     "version": "1.0.0",
     "sha256": "afd7dc75ac1216eec39350ca7a7228d836183b9ec61751f3064dcc53a97422b1",
     "downloadURL": "https://raw.githubusercontent.com/venera-app/venera-configs/d8a71168a83a6797482a5be9c000989dabf21c08/jcomic.js",
-    "description": "2026-10-10 列表、目录、封面通过，阅读地址阶段失败（最近响应200）；当前阅读未验证。"
+    "description": "2026-10-12 列表、目录、封面通过，当前首本阅读地址为空；不纳入verified，不代表网站永久不可用。"
   },
   {
     "name": "热辣漫画",
